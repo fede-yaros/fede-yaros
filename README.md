@@ -54,6 +54,14 @@ Currently working as a Backend Engineer at [BEON.Tech](https://beon.tech/compani
 
 ---
 
+## 📝 Articles & Talks
+
+### 🚀 Algorithms and Code Performance: Your Code Works… But Can It Handle Real Traffic?
+- 📖 [Read the article](https://beon.tech/blog/optimizing-algorithms-code-performance/)
+- 🎥 [Watch the video summary](https://www.linkedin.com/posts/beontechlatam_writing-code-that-works-is-one-thing-writing-activity-7370911822884921345-BOGF)
+
+---
+
 ## 🧠 Engineering Philosophy
 
 I strongly value pragmatism and simplicity when building software. I enjoy solving complex problems, but I also believe that maintainable and understandable solutions usually outperform overengineered ones.
