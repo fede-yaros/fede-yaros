@@ -1,34 +1,34 @@
 # Hi there 👋 I'm Federico
 
-## Backend Engineer | AI Engineer | Problem Solver
+## 🚀 Backend Engineer | AI Engineer | Problem Solver
 
 Information Systems Engineer graduated from Universidad Tecnológica Nacional (UTN), Argentina, with 10+ years of experience building software products across different industries, technologies, and scales.
 
 My background combines backend engineering, scalable systems, data-intensive applications, and applied AI solutions. Throughout my career, I’ve worked on projects ranging from traditional software platforms to modern AI-powered systems, always with a strong focus on pragmatism, product impact, and maintainability.
 
-## Current Role
+## 💼 Current Role
 
 Currently working as a Backend Engineer at [BEON.Tech](https://beon.tech/companies/), building high-concurrency backend and AI-powered systems used across multiple countries.
 
 ---
 
-## What I Work With
+## 💻 What I Work With
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 - Python
 - FastAPI
 - Async architectures
 - REST APIs
 - Distributed systems
 
-### Previous Experience
+### 🕰️ Previous Experience
 - C# / .NET Core
 - PHP / Laravel
 
-### Frontend
+### 🎨 Frontend
 - React
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 - LLM applications
 - Retrieval-Augmented Generation (RAG)
 - Embeddings
@@ -37,7 +37,7 @@ Currently working as a Backend Engineer at [BEON.Tech](https://beon.tech/compani
 - AI-assisted workflows
 - Recommendation & ranking systems
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 - Google Cloud Platform (GCP)
 - BigQuery
 - Docker
@@ -45,7 +45,7 @@ Currently working as a Backend Engineer at [BEON.Tech](https://beon.tech/compani
 - Datadog
 - Looker
 
-### Databases
+### 🗄️ Databases
 - PostgreSQL
 - Redis
 - MongoDB
@@ -54,7 +54,7 @@ Currently working as a Backend Engineer at [BEON.Tech](https://beon.tech/compani
 
 ---
 
-## Engineering Philosophy
+## 🧠 Engineering Philosophy
 
 I strongly value pragmatism and simplicity when building software. I enjoy solving complex problems, but I also believe that maintainable and understandable solutions usually outperform overengineered ones.
 
@@ -66,7 +66,7 @@ Beyond client work, I like contributing internally through:
 
 ---
 
-## Interests Beyond Tech
+## 🎸 Interests Beyond Tech
 
 Outside of engineering:
 - Bass player in a rock/pop band
